@@ -1,0 +1,10 @@
+C:\Users\thang\source\repos\QuanLyNhanVienModel\QuanLyNhanVienModel\bin\Debug\QuanLyNhanVienModel.exe.config
+C:\Users\thang\source\repos\QuanLyNhanVienModel\QuanLyNhanVienModel\bin\Debug\QuanLyNhanVienModel.exe
+C:\Users\thang\source\repos\QuanLyNhanVienModel\QuanLyNhanVienModel\bin\Debug\QuanLyNhanVienModel.pdb
+C:\Users\thang\source\repos\QuanLyNhanVienModel\QuanLyNhanVienModel\obj\Debug\QuanLyNhanVienModel.csproj.AssemblyReference.cache
+C:\Users\thang\source\repos\QuanLyNhanVienModel\QuanLyNhanVienModel\obj\Debug\QuanLyNhanVienModel.Properties.Resources.resources
+C:\Users\thang\source\repos\QuanLyNhanVienModel\QuanLyNhanVienModel\obj\Debug\QuanLyNhanVienModel.csproj.GenerateResource.cache
+C:\Users\thang\source\repos\QuanLyNhanVienModel\QuanLyNhanVienModel\obj\Debug\QuanLyNhanVienModel.csproj.CoreCompileInputs.cache
+C:\Users\thang\source\repos\QuanLyNhanVienModel\QuanLyNhanVienModel\obj\Debug\QuanLyNhanVienModel.exe
+C:\Users\thang\source\repos\QuanLyNhanVienModel\QuanLyNhanVienModel\obj\Debug\QuanLyNhanVienModel.pdb
+C:\Users\thang\source\repos\QuanLyNhanVienModel\QuanLyNhanVienModel\obj\Debug\QuanLyNhanVienModel.frmStaff.resources
